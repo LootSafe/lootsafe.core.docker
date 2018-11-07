@@ -58,5 +58,6 @@ Give it a good 30 seconds to start up.
   docker start -i -a [container name here]
   ```
   You can wait around until the error appears. If all is well and you want to leave run `ctrl+p+q`.
+- If it's still too overwhelming call your mom and talk to her about your problem.
   
   
