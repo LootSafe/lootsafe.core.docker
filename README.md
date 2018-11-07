@@ -35,7 +35,7 @@ Depending on your settings you may be prompted to put in your ssh key pass a cou
 You will have to modify two files if they are not correct already.
 in the `lootsafe.core` directory you will modify `config.js` and update the three values as follows.
 ```yml
-#Any port above 1024 will do. But if you change it here you will also have to change it in the compose-docker.yml
+#Any port above 1024 will do. But if you change it here you will also have to change it in the docker-compose.yml
 port: 1337
 provider: 'ganache:8545'
 dbURI: 'mongodb://mongo27017'
