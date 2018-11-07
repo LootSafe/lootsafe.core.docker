@@ -1,10 +1,10 @@
-# LootSafe Core Docker Deployment
+# LootSafe Core Docker Deployment :whale:
 This will guide you through running an instance (test or otherwise) of the lootsafe api backend.
 
 ### Requirements -- **These are must haves**
 1. Preferrably a Debian based system *(Ubuntu FTW)*
-2. Docker Installed and ready to go *(If you are using Windows you mgiht have to do some fandangling to get your WSL / otherwise points in order)*
-3. Docker-Compose Installed - *This Does all the magic*
+2. [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/#prerequisites "Docker") Installed and ready to go *(If you are using Windows you mgiht have to do some fandangling to get your WSL / otherwise points in order)*
+3. [Docker-Compose](https://docs.docker.com/compose/install/ "Docker-Compose") Installed - *This Does all the magic*
 4. A stressball incase docker gives you issues on your system
 
 ### Let Us Begin
